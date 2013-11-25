@@ -1,0 +1,2 @@
+# Scala Playground 
+Ein kleiner Spielplatz für Scala zum auführen der Dateien einfach `scala <dateiname>` in das Terminal seiner Wahl eingeben. Ansonsten einfach in den Quellcode schauen und loslegen. 
